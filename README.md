@@ -1,11 +1,11 @@
-# full-stack
+# Full-stack
 Full-stack development project.
 
-# Frontend
+### Frontend
 React
 
-# API
+### API
 Node.js + sequelize.js
 
-# Banco de dados
+### Banco de dados
 PostgreSQL
